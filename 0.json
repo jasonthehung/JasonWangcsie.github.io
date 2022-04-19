@@ -1,0 +1,31 @@
+{
+    "name": "#000",
+    "description": "The related information can be downloaded at  \n\n  [Download LINK!!!!](https://drive.google.com/file/d/1jZcejVm4rt4ziZ3F0Jo4WZpfT8h6DDo2/view?usp=sharing)  \n\n  您可下載驗證工具，透過工具計算檔案的雜湊值與本網站所標示的雜湊值驗證碼進行比對（請使用「SHA256 」驗證）。  \n\n   You can download the SHA256 verification tool and use the tool to calculate the hash value of the file and compare it with the file's hash value marked on this page. \n\nCCLAB Presents",
+    "image": "https://i.imgur.com/sEl6woO.jpg",
+    "external_url": "https://www.pexels.com/zh-tw/@readymade",
+    "attributes": [
+        {
+            "trait_type": "Location", 
+            "value": "Somewhere"
+        },
+        {
+            "trait_type": "Optional", 
+            "value": "Anything"
+        },
+        {
+            "display_type":"boost_percentage",
+            "trait_type":"stamina_increase",
+            "value":10
+        },
+        {
+            "display_type":"Display_type_testing",
+            "trait_type":"generation",
+            "value":2
+        },
+        {
+            "display_type":"Display_type_testing",
+            "trait_type":"Programming Language",
+            "value": "C++"
+        }
+    ]
+}
